@@ -1,1 +1,1 @@
-# Traffic-Sign-Classification
+The objective of this project is to build a deep-learning model capable of classifying traffic signs. The project encompasses several key stages, starting from importing the necessary libraries and datasets, performing data visualization, pre-processing images, understanding convolutional neural networks (CNNs), building and training a CNN model, and finally assessing the model's performance. The dataset used consists of traffic sign images categorized into different classes, providing a rich source of data for training and evaluating our model.
